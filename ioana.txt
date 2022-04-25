@@ -1,4 +1,9 @@
-sonia.txt
+ioana.txt
+
+am 
+facut
+
+modificari 
 ala
 bala
 portocala
@@ -6,3 +11,4 @@ ioana
 mi a
 mancat
 banana
+
