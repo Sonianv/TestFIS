@@ -1,4 +1,6 @@
 ioana.txt
 
 am 
-facut 
+facut
+
+modificari 
